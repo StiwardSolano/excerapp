@@ -1,5 +1,6 @@
 # excerapp
  Registro de Ejercicios
+ api: https://github.com/StiwardSolano/excerapi/
  MERN STACK
 ## Demostrando el uso de Reactjs con MongoDB, Nodejs y Express
 
